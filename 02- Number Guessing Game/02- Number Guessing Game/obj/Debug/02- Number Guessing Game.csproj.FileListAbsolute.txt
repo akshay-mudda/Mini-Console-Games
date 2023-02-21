@@ -1,0 +1,8 @@
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\bin\Debug\02- Number Guessing Game.exe.config
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\bin\Debug\02- Number Guessing Game.exe
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\bin\Debug\02- Number Guessing Game.pdb
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\obj\Debug\02- Number Guessing Game.csproj.AssemblyReference.cache
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\obj\Debug\02- Number Guessing Game.csproj.SuggestedBindingRedirects.cache
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\obj\Debug\02- Number Guessing Game.csproj.CoreCompileInputs.cache
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\obj\Debug\02- Number Guessing Game.exe
+F:\Mini-Console Games\02- Number Guessing Game\02- Number Guessing Game\obj\Debug\02- Number Guessing Game.pdb

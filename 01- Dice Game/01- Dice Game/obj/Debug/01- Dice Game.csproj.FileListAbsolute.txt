@@ -1,0 +1,8 @@
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\bin\Debug\01- Dice Game.exe.config
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\bin\Debug\01- Dice Game.exe
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\bin\Debug\01- Dice Game.pdb
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\obj\Debug\01- Dice Game.csproj.AssemblyReference.cache
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\obj\Debug\01- Dice Game.csproj.SuggestedBindingRedirects.cache
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\obj\Debug\01- Dice Game.csproj.CoreCompileInputs.cache
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\obj\Debug\01- Dice Game.exe
+F:\Mini-Console Games\01- Dice Game\01- Dice Game\obj\Debug\01- Dice Game.pdb

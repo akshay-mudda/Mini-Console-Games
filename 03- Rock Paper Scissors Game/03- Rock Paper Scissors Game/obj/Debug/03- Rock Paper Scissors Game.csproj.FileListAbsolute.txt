@@ -1,0 +1,8 @@
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\bin\Debug\03- Rock Paper Scissors Game.exe.config
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\bin\Debug\03- Rock Paper Scissors Game.exe
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\bin\Debug\03- Rock Paper Scissors Game.pdb
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\obj\Debug\03- Rock Paper Scissors Game.csproj.AssemblyReference.cache
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\obj\Debug\03- Rock Paper Scissors Game.csproj.SuggestedBindingRedirects.cache
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\obj\Debug\03- Rock Paper Scissors Game.csproj.CoreCompileInputs.cache
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\obj\Debug\03- Rock Paper Scissors Game.exe
+F:\Mini-Console Games\03- Rock Paper Scissors Game\03- Rock Paper Scissors Game\obj\Debug\03- Rock Paper Scissors Game.pdb

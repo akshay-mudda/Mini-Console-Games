@@ -1,0 +1,8 @@
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\bin\Debug\04- Turn Based Combat Game.exe.config
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\bin\Debug\04- Turn Based Combat Game.exe
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\bin\Debug\04- Turn Based Combat Game.pdb
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\obj\Debug\04- Turn Based Combat Game.csproj.AssemblyReference.cache
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\obj\Debug\04- Turn Based Combat Game.csproj.SuggestedBindingRedirects.cache
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\obj\Debug\04- Turn Based Combat Game.csproj.CoreCompileInputs.cache
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\obj\Debug\04- Turn Based Combat Game.exe
+F:\Mini-Console Games\04- Turn Based Combat Game\04- Turn Based Combat Game\obj\Debug\04- Turn Based Combat Game.pdb
